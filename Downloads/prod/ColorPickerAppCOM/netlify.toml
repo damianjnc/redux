@@ -1,0 +1,4 @@
+[build]
+base = "ColorPickerAppCOM/"
+publish = "ColorPickerAppCOM/build/"
+command = "yarn build"
